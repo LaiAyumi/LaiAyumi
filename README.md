@@ -27,6 +27,7 @@
   <img align="center" alt="Lai-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Lai-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg">
   <img align="center" alt="Lai-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+    <img align="right" alt="Lai-Canva" height="180" width="180" src="https://cdn.discordapp.com/attachments/837354866967576576/1232677548065034330/copy_4FF45874-0A2C-4F32-A2F6-4EC0580EADFE_1.GIF?ex=662a53ed&is=6629026d&hm=17c4a8fdcf7466be825be62b62991cda2614391a678b49108ed5d6ad89fae7a1&">
 </div>
   
   ##
