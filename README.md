@@ -23,10 +23,6 @@ Atualmente desenvolvendo um sistema de gestão têxtil full-stack (React + Node.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=F05032)
 
-### Projeto em destaque
-
-**[suecotextil](https://github.com/LaiAyumi/suecotextil)** — site institucional e catálogo digital, com cartelas de cores e estampas interativas, coleções e apresentação de produtos.
-
 ### GitHub
 
-![Streak](https://streak-stats.demolab.com?user=LaiAyumi&theme=default&hide_border=true&background=0D1117&stroke=30363D&ring=333333&fire=333333&currStreakLabel=333333)
+![Streak](https://streak-stats.demolab.com?user=LaiAyumi&theme=github-dark-blue&hide_border=true)
