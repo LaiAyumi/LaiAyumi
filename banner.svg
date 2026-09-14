@@ -3,10 +3,11 @@
 
   <!-- moon -->
   <g fill="#F4EFC1">
-    <rect x="1080" y="24" width="60" height="60"/>
+    <rect x="1084" y="24" width="52" height="52"/>
   </g>
-  <g fill="#0B1026">
-    <rect x="1096" y="20" width="52" height="52"/>
+  <g fill="#D9CE9A">
+    <rect x="1096" y="36" width="8" height="8"/>
+    <rect x="1112" y="52" width="8" height="8"/>
   </g>
 
   <!-- stars, twinkling -->
