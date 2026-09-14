@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:6D28D9,100:22D3EE&height=200&section=header&text=Laíssa%20Ayumi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20Full-Stack%20%7C%20React%20·%20Node.js%20·%20Oracle&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/LaiAyumi/LaiAyumi/main/banner.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/laiayumi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:laissaayumisugai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -44,10 +44,4 @@ Graduanda em Engenharia da Computação, construindo sistemas full-stack de pont
 
 <img src="https://streak-stats.demolab.com?user=LaiAyumi&theme=github-dark-blue&hide_border=true" />
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:6D28D9,100:22D3EE&height=100&section=footer" width="100%"/>
 </div>
