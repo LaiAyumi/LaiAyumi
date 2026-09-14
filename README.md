@@ -4,7 +4,8 @@
 
 <a href="https://www.linkedin.com/in/laiayumi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:laissaayumisugai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://laiayumicurriculum.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/-Currículo-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /></a>
+<a href="https://github.com/LaiAyumi/LaiAyumi/raw/main/CV_Laissa_Ayumi_PT.pdf" target="_blank"><img src="https://img.shields.io/badge/-Currículo_PT-00C4CC?style=for-the-badge" /></a>
+<a href="https://github.com/LaiAyumi/LaiAyumi/raw/main/CV_Laissa_Ayumi_EN.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume_EN-00C4CC?style=for-the-badge" /></a>
 
 </div>
 
